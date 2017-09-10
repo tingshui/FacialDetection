@@ -1,0 +1,8 @@
+﻿  DetectWink.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  WinkDetection.vcxproj -> C:\Users\QUANQING\Documents\Visual Studio 2017\Projects\WinkDetection\x64\Debug\WinkDetection.exe
+  WinkDetection.vcxproj -> C:\Users\QUANQING\Documents\Visual Studio 2017\Projects\WinkDetection\x64\Debug\WinkDetection.pdb (Partial PDB)
